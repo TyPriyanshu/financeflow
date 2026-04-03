@@ -1,19 +1,19 @@
-# 💰 FinanceFlow
+#  FinanceFlow
 
 A full-stack web app for managing financial records with secure authentication and role-based access.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🔐 JWT Authentication (Login/Register)
-* 👥 Role-Based Access (Admin, Analyst, Viewer)
-* 📊 Manage Financial Records
-* ⚡ React + Node.js Full Stack
+* JWT Authentication (Login/Register)
+* Role-Based Access (Admin, Analyst, Viewer)
+*  Manage Financial Records
+*  React + Node.js Full Stack
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Frontend: React (Vite + TypeScript)
 * Backend: Node.js, Express
@@ -21,7 +21,7 @@ A full-stack web app for managing financial records with secure authentication a
 
 ---
 
-## ⚙️ Run Locally
+## Run Locally
 
 ### 1. Install dependencies
 
@@ -56,7 +56,7 @@ npm run dev
 
 ---
 
-## 🌐 URLs
+## URLs
 
 * Frontend: http://localhost:5173
 * Backend: http://localhost:3000
