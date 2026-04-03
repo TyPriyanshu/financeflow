@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow",
+  "description": "A secure full-stack finance management system with role-based access control, JWT authentication, and real-time financial analytics.",
+  "requestFramePermissions": []
+}
